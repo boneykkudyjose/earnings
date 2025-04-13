@@ -1,0 +1,5 @@
+earnings
+streamlit
+pandas
+lxml
+streamlit_calendar
